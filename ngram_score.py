@@ -1,7 +1,4 @@
-'''
-Allows scoring of text using n-gram probabilities
-17/07/12
-'''
+
 from math import log10
 
 class ngram_score(object):
